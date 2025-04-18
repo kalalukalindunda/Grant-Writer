@@ -2,7 +2,8 @@ GrantPro AI: Automating Grant Writing with Google Gemini
 A Python-powered tool to generate professional grant proposals in minutes
 
 GrantPro AI Demo
-[Add screenshot of your UI here]
+![image](https://github.com/user-attachments/assets/cd1fd24b-820c-4dfc-ad54-b13622410fdc)
+
 
 🚀 Overview
 GrantPro AI leverages Google Gemini's generative AI to help nonprofits, researchers, and institutions draft high-quality grant proposals, project plans, and theories of change. By automating repetitive writing tasks, it reduces drafting time from 20+ hours to under 30 minutes while ensuring compliance with funder guidelines.
